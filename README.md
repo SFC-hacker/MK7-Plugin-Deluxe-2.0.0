@@ -13,7 +13,7 @@ Rev1 JPN - Fully Compatible<br/>
 
 # Usage
 1. Download the plugin from here:<br/>
-2. Place the plugin into the folder for your region:<br/><br/>
+2. Place the plugin into the folder for your region:<br/>
 
 USA  -  SD:/luma/plugins/0004000000030800<br/>
 EUR  -  SD:/luma/plugins/0004000000030700<br/>
