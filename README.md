@@ -12,7 +12,6 @@ Rev1 EUR - Fully Compatible<br/>
 Rev1 JPN - Fully Compatible<br/>
 
 # Usage
-
 1. Download the plugin from here:<br/>
 2. Place the plugin into the folder for your region:<br/><br/>
 
@@ -29,10 +28,12 @@ JPN  -  SD:/luma/plugins/0004000000030600<br/><br/>
 8. Enable cheats and enjoy!<br/>
 
 # Video
-https://youtu.be/tCl7SN9Cqyw
+https://www.youtube.com/watch?v=rdy9ws-JtWo
 
 # Credits
 
 SFC@hacker@ - Codes, plugin, & media<br/>
-Nanquitas - CTRPluginFramework<br/>
+
 Lukas - Writing tips and optimization<br/>
+Nanquitas - CTRPluginFramework<br/>
+Darkflare - Original plugin
